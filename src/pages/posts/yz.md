@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 被评为世界No.1，中国最安逸的城市，它排第二，没谁敢称第一
-pubDate: 2024-12-22 0:47:00
+pubDate: 2035-09-02 0:47:00
 description: '这是一篇文章'
 author: 'brite'
 cover:
